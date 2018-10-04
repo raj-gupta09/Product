@@ -1,0 +1,6 @@
+D:\visualprojects\ProductDetails\ProductDetails\bin\Debug\ProductDetails.exe.config
+D:\visualprojects\ProductDetails\ProductDetails\bin\Debug\ProductDetails.exe
+D:\visualprojects\ProductDetails\ProductDetails\bin\Debug\ProductDetails.pdb
+D:\visualprojects\ProductDetails\ProductDetails\obj\Debug\ProductDetails.csprojResolveAssemblyReference.cache
+D:\visualprojects\ProductDetails\ProductDetails\obj\Debug\ProductDetails.exe
+D:\visualprojects\ProductDetails\ProductDetails\obj\Debug\ProductDetails.pdb
